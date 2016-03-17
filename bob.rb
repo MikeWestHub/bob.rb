@@ -7,7 +7,7 @@ class Bob
     elsif remark.strip.empty?
       "Fine. Be that way!"
     else
-      "Whatever"
+      "Whatever."
     end
   end
 end
